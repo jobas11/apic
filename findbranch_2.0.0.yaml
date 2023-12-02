@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: FindBranch
   x-ibm-name: findbranch
-  version: 2.0.10
+  version: 2.0.11
 schemes:
   - https
 basePath: /findbranch
